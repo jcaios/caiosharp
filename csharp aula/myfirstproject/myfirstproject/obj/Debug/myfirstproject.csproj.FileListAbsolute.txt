@@ -1,0 +1,7 @@
+C:\Users\caioJ\OneDrive\Desktop\csharp aula\myfirstproject\myfirstproject\bin\Debug\myfirstproject.exe.config
+C:\Users\caioJ\OneDrive\Desktop\csharp aula\myfirstproject\myfirstproject\bin\Debug\myfirstproject.exe
+C:\Users\caioJ\OneDrive\Desktop\csharp aula\myfirstproject\myfirstproject\bin\Debug\myfirstproject.pdb
+C:\Users\caioJ\OneDrive\Desktop\csharp aula\myfirstproject\myfirstproject\obj\Debug\myfirstproject.csproj.AssemblyReference.cache
+C:\Users\caioJ\OneDrive\Desktop\csharp aula\myfirstproject\myfirstproject\obj\Debug\myfirstproject.csproj.CoreCompileInputs.cache
+C:\Users\caioJ\OneDrive\Desktop\csharp aula\myfirstproject\myfirstproject\obj\Debug\myfirstproject.exe
+C:\Users\caioJ\OneDrive\Desktop\csharp aula\myfirstproject\myfirstproject\obj\Debug\myfirstproject.pdb
